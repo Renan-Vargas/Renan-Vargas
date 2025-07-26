@@ -1,28 +1,25 @@
-<h1 align="center">⚡ Hello World!</h1>
-<h3 align="center">A passionate Front-End Developer focused on building responsive and modern web interfaces using React, TypeScript, and Tailwind CSS.</h3>
+<h1 align="center">⚡ Hello everyone 👋</h1>
+<h3 align="center">I'm a Front-End Developer passionate about creating modern and responsive web applications using React, TypeScript, and Tailwind CSS.</h3>
 
-<p align="center">
-  <a href="https://github.com/Renan-Vargas">
-    <img src="https://komarev.com/ghpvc/?username=Renan-Vargas&label=Profile%20views&color=0e75b6&style=flat" alt="Renan-Vargas" />
-  </a>
+---
+
+### 🧠 My Skills
+
+#### Programming Languages & Frameworks:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,sass" />
+</p>
+
+#### Tools & Design:
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
 </p>
 
 ---
 
-### 🛠️ Technologies I work with:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+### 📬 Connect with me
 
----
-
-### 📫 Get in touch:
-
-- 📧 renanvargasm@hotmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/renan-vargas-menezes-960548209/)  
-- 💻 [GitHub](https://github.com/Renan-Vargas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-vargas-menezes-960548209/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanvargasm@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Renan-Vargas)
